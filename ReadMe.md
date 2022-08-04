@@ -2,6 +2,11 @@
 
 I know that at the time of publishing this report the pandemy is no longer an actual subject, but i decided to make this report to learn Power BI.
 
+Preview:
+<p align="center">
+  <img width="767" alt="image" src="https://user-images.githubusercontent.com/91025810/182941590-9124240a-ceb4-4560-914c-ff6ea7880dd9.png">
+</p>
+
 ## Actions done
 
 - imported data sources from Git directly in Power BI, using the URL
