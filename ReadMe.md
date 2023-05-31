@@ -4,6 +4,14 @@ I know that at the time of publishing this report the pandemy is no longer an ac
 
 Preview:
 <p align="center">
+  <p>New version</p>
+  <img width="867" alt="pbi-covid-dash" src="https://github.com/ElenaD25/Covid-19-Report/assets/91025810/8dac7add-9add-4653-9145-34fdd5fa00aa">
+
+<br />
+<br />
+<br />
+
+  <p>Old version</p>
   <img width="767" alt="image" src="https://user-images.githubusercontent.com/91025810/182941590-9124240a-ceb4-4560-914c-ff6ea7880dd9.png">
 </p>
 
